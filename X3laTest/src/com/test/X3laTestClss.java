@@ -6,5 +6,6 @@ public class X3laTestClss {
 		X3laUtils.printMsg("Master - 1 commit");
 		X3laUtils.printMsg("Tortoise - 1 commit");
 		X3laUtils.printMsg("Tortoise - 2 commit");
+		X3laUtils.printMsg("Tortoise - 3 commit");
 	}
 }
